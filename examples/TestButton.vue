@@ -1,7 +1,7 @@
 <template>
   <div>
-    <div class="row bu-button">按钮</bu-button>
-	  <bu-button type="primary">按钮</bu-button>
+    <div class="row bu-button">
+      <bu-button type="primary">按钮</bu-button>
       <bu-button type="success">按钮</bu-button>
       <bu-button type="info">按钮</bu-button>
       <bu-button type="warning">按钮</bu-button>
